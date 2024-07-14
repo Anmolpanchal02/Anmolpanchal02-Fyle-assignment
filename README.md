@@ -25,4 +25,6 @@ JavaScript: Interactive elements and API integration for dynamic data handling.
 Feel free to explore and contribute to this project!
 
 ![image](https://github.com/user-attachments/assets/250e3fe5-9b11-4ed5-b86f-9c20712a7ff5)
-![image](https://github.com/user-attachments/assets/93213b30-751c-470e-bade-cd3efeea4679)
+
+![image](https://github.com/user-attachments/assets/807619a7-66f7-4fac-af95-f0ede66c4113)
+
